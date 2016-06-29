@@ -1,0 +1,30 @@
+name: Fun.CQRS
+description: "A functional CQRS/ES library for Scala"
+github_owner: strongtyped
+url: http://www.funcqrs.io
+baseurl: /fun-cqrs
+style: default
+docs: true
+
+
+markdown: redcarpet
+collections:
+  tut:
+    output: true
+
+
+highlight_theme: foundation
+
+
+cdn:
+  url: http://localhost:8000
+  # url: https://rawgit.com/strongtyped/microsites/cdn/
+
+favicon:
+  url: http://www.strongtyped.io/favicon.png
+
+twitter: "@strongtyped"
+
+organization:
+  url: http://www.strongtyped.io
+  name: Strong[Typed]
